@@ -1,0 +1,17 @@
+{
+  "name": "codingdojo",
+  "version": "1.0.0",
+  "description": "CodingDojo JS",
+  "main": "jogo.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
